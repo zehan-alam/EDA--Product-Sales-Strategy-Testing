@@ -1,5 +1,5 @@
 # EDA - Product Sales Strategy A/B Testing
-It was a project given to me in *DataCamp Professional certification exam*. I completed it using python libraries and my knowledge of Data Analysis. </br>
+It was a project given to me in *DataCamp Professional certification exam*. I completed it using python libraries and my knowledge of Data Analysis. Check `notebook.ipynb` for full report.</br>
 
 ## Project Description
 
@@ -14,9 +14,6 @@ This project analyzes sales data for a new line of office stationery using three
 - Customer behavior insights
 - Revenue distribution analysis
 - Sales method differences
-
-### Recommendations:
-Based on data-derived insights to optimize the sales approach for the new product line.
 
 **Presentation:** [Certification - Data Analyst Professional - Product Sales.pptx](link-to-presentation)
 
